@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 3240b07553267e94789b4a9275d66ff8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '3D View: {3D - srn26@njit.edu}'
+    100002: Basic Wall _Generic - 2" [18353]
+    100004: Basic Wall _Generic - 2" [18358]
+    100006: Basic Wall _Generic - 2" [18363]
+    100008: Basic Wall _Generic - 2" [18368]
+    100010: Basic Wall _Generic - 2" [18373]
+    100012: Basic Wall _Generic - 2" [18378]
+    100014: Basic Wall _Generic - 2" [18383]
+    100016: Basic Wall _Generic - 2" [18388]
+    100018: Basic Wall _Generic - 2" [18870]
+    100020: Basic Wall _Generic - 2" [18875]
+    100022: Basic Wall _Generic - 2" [18880]
+    100024: Basic Wall _Generic - 2" [18923]
+    100026: Basic Wall _Generic - 2" [19070]
+    100028: Basic Wall _Generic - 2" [19187]
+    100030: Basic Wall _Generic - 2" [19271]
+    100032: Basic Wall _Generic - 2" [19360]
+    100034: Basic Wall _Generic - 2" [19462]
+    100036: Basic Wall _Generic - 2" [19551]
+    100038: Basic Wall _Generic - 2" [19588]
+    100040: Basic Wall _Generic - 2" [19718]
+    100042: Basic Wall _Generic - 2" [19757]
+    100044: Basic Wall _Generic - 2" [19782]
+    100046: Basic Wall _Generic - 2" [19815]
+    100048: Basic Wall _Generic - 2" [20136]
+    100050: Basic Wall _Generic - 2" [20215]
+    100052: Basic Wall _Generic - 2" [20263]
+    100054: //RootNode
+    400000: '3D View: {3D - srn26@njit.edu}'
+    400002: Basic Wall _Generic - 2" [18353]
+    400004: Basic Wall _Generic - 2" [18358]
+    400006: Basic Wall _Generic - 2" [18363]
+    400008: Basic Wall _Generic - 2" [18368]
+    400010: Basic Wall _Generic - 2" [18373]
+    400012: Basic Wall _Generic - 2" [18378]
+    400014: Basic Wall _Generic - 2" [18383]
+    400016: Basic Wall _Generic - 2" [18388]
+    400018: Basic Wall _Generic - 2" [18870]
+    400020: Basic Wall _Generic - 2" [18875]
+    400022: Basic Wall _Generic - 2" [18880]
+    400024: Basic Wall _Generic - 2" [18923]
+    400026: Basic Wall _Generic - 2" [19070]
+    400028: Basic Wall _Generic - 2" [19187]
+    400030: Basic Wall _Generic - 2" [19271]
+    400032: Basic Wall _Generic - 2" [19360]
+    400034: Basic Wall _Generic - 2" [19462]
+    400036: Basic Wall _Generic - 2" [19551]
+    400038: Basic Wall _Generic - 2" [19588]
+    400040: Basic Wall _Generic - 2" [19718]
+    400042: Basic Wall _Generic - 2" [19757]
+    400044: Basic Wall _Generic - 2" [19782]
+    400046: Basic Wall _Generic - 2" [19815]
+    400048: Basic Wall _Generic - 2" [20136]
+    400050: Basic Wall _Generic - 2" [20215]
+    400052: Basic Wall _Generic - 2" [20263]
+    400054: //RootNode
+    2000000: '3D View: {3D - srn26@njit.edu}'
+    2100000: No Name
+    2300000: Basic Wall _Generic - 2" [18353]
+    2300002: Basic Wall _Generic - 2" [18358]
+    2300004: Basic Wall _Generic - 2" [18363]
+    2300006: Basic Wall _Generic - 2" [18368]
+    2300008: Basic Wall _Generic - 2" [18373]
+    2300010: Basic Wall _Generic - 2" [18378]
+    2300012: Basic Wall _Generic - 2" [18383]
+    2300014: Basic Wall _Generic - 2" [18388]
+    2300016: Basic Wall _Generic - 2" [18870]
+    2300018: Basic Wall _Generic - 2" [18875]
+    2300020: Basic Wall _Generic - 2" [18880]
+    2300022: Basic Wall _Generic - 2" [18923]
+    2300024: Basic Wall _Generic - 2" [19070]
+    2300026: Basic Wall _Generic - 2" [19187]
+    2300028: Basic Wall _Generic - 2" [19271]
+    2300030: Basic Wall _Generic - 2" [19360]
+    2300032: Basic Wall _Generic - 2" [19462]
+    2300034: Basic Wall _Generic - 2" [19551]
+    2300036: Basic Wall _Generic - 2" [19588]
+    2300038: Basic Wall _Generic - 2" [19718]
+    2300040: Basic Wall _Generic - 2" [19757]
+    2300042: Basic Wall _Generic - 2" [19782]
+    2300044: Basic Wall _Generic - 2" [19815]
+    2300046: Basic Wall _Generic - 2" [20136]
+    2300048: Basic Wall _Generic - 2" [20215]
+    2300050: Basic Wall _Generic - 2" [20263]
+    3300000: Basic Wall _Generic - 2" [18353]
+    3300002: Basic Wall _Generic - 2" [18358]
+    3300004: Basic Wall _Generic - 2" [18363]
+    3300006: Basic Wall _Generic - 2" [18368]
+    3300008: Basic Wall _Generic - 2" [18373]
+    3300010: Basic Wall _Generic - 2" [18378]
+    3300012: Basic Wall _Generic - 2" [18383]
+    3300014: Basic Wall _Generic - 2" [18388]
+    3300016: Basic Wall _Generic - 2" [18870]
+    3300018: Basic Wall _Generic - 2" [18875]
+    3300020: Basic Wall _Generic - 2" [18880]
+    3300022: Basic Wall _Generic - 2" [18923]
+    3300024: Basic Wall _Generic - 2" [19070]
+    3300026: Basic Wall _Generic - 2" [19187]
+    3300028: Basic Wall _Generic - 2" [19271]
+    3300030: Basic Wall _Generic - 2" [19360]
+    3300032: Basic Wall _Generic - 2" [19462]
+    3300034: Basic Wall _Generic - 2" [19551]
+    3300036: Basic Wall _Generic - 2" [19588]
+    3300038: Basic Wall _Generic - 2" [19718]
+    3300040: Basic Wall _Generic - 2" [19757]
+    3300042: Basic Wall _Generic - 2" [19782]
+    3300044: Basic Wall _Generic - 2" [19815]
+    3300046: Basic Wall _Generic - 2" [20136]
+    3300048: Basic Wall _Generic - 2" [20215]
+    3300050: Basic Wall _Generic - 2" [20263]
+    4300000: Basic Wall _Generic - 2" [18353]
+    4300002: Basic Wall _Generic - 2" [18358]
+    4300004: Basic Wall _Generic - 2" [18363]
+    4300006: Basic Wall _Generic - 2" [18368]
+    4300008: Basic Wall _Generic - 2" [18373]
+    4300010: Basic Wall _Generic - 2" [18378]
+    4300012: Basic Wall _Generic - 2" [18383]
+    4300014: Basic Wall _Generic - 2" [18388]
+    4300016: Basic Wall _Generic - 2" [18870]
+    4300018: Basic Wall _Generic - 2" [18875]
+    4300020: Basic Wall _Generic - 2" [18880]
+    4300022: Basic Wall _Generic - 2" [18923]
+    4300024: Basic Wall _Generic - 2" [19070]
+    4300026: Basic Wall _Generic - 2" [19187]
+    4300028: Basic Wall _Generic - 2" [19271]
+    4300030: Basic Wall _Generic - 2" [19360]
+    4300032: Basic Wall _Generic - 2" [19462]
+    4300034: Basic Wall _Generic - 2" [19551]
+    4300036: Basic Wall _Generic - 2" [19588]
+    4300038: Basic Wall _Generic - 2" [19718]
+    4300040: Basic Wall _Generic - 2" [19757]
+    4300042: Basic Wall _Generic - 2" [19782]
+    4300044: Basic Wall _Generic - 2" [19815]
+    4300046: Basic Wall _Generic - 2" [20136]
+    4300048: Basic Wall _Generic - 2" [20215]
+    4300050: Basic Wall _Generic - 2" [20263]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

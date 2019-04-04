@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/MR_MediaLab.unity
+  isLoaded: 1
+  isActive: 1
