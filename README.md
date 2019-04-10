@@ -1,5 +1,7 @@
 # AcousticTool
 
+![alt text](https://raw.githubusercontent.com/lukegehron/AcousticTool/master/AcousticTool.jpg)
+
 Grasshopper Script for ANALYZING Sound Levels:
 https://youtu.be/C2QDRVXR9Mc
 
@@ -8,3 +10,6 @@ https://youtu.be/Lyqf8Qq6oDU
 
 Unity Project from MIT Hackathon - SOUND SPACE:
 https://youtu.be/3bQfJdd1CYg
+
+
+
